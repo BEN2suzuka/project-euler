@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Problem 1
 // 3 または 5 の倍数である 1000 未満の自然数の総和
 
 int func(int N, int P) {
